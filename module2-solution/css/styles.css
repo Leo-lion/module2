@@ -23,8 +23,7 @@ h2 {
 #sec1, #sec2, #sec3 {
 	dispay: block;
 	border: 1px solid black;
-	margin-left: 1%;
-	margin-right: 1%;
+	margin: 1%;
 	padding: 1%;
 }
 
