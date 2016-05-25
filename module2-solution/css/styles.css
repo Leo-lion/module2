@@ -38,7 +38,7 @@ p {
 }
 
 /********** Desktop view **********/
-@media only screen and (min-width: 992px) {
+@media (min-width: 992px) {
 	.col-lg-4 {
 		float: left;
 		width: 31.33%;
@@ -46,7 +46,7 @@ p {
 }
   
 /********** Tablet view **********/
-@media only screen and (min-device-width: 768px) and (max-device-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   #sec1, #sec2 {
   	float: left;
 		width: 48%;
@@ -58,7 +58,7 @@ p {
 }
 
 /********** Mobile view **********/
-@media only screen and (max-device-width: 767px) {
+@media (max-width: 767px) {
  	.col-xs-12 {
  		float: left;
 		width: 98%;
