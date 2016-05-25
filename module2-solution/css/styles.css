@@ -35,6 +35,8 @@ section {
 	background-color: #ffad33;
 }
 
+.clr{clear:both;}
+
 p {
 	padding: 5px;
 	margin: 5px;
